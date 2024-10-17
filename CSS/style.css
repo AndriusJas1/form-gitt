@@ -18,3 +18,51 @@ body {
     border-bottom: 1px solid #eceff3;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   }
+  #cnumber {
+    border: 2px solid #eceff3;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 5px;
+    height: 15px;
+    width: 228px;
+    padding: 8px;
+    font-size: 11px;
+    background-color: white;
+  }
+  #month {
+    border: 2px solid #eceff3;
+    margin-top: 18px;
+    margin-left: 25px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    height: 35px;
+    width: 120px;
+    padding-left: 15px;
+    background-color: white;
+  }
+  #year {
+    border: 2px solid #eceff3;
+    margin-top: 18px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 3px;
+    height: 35px;
+    width: 120px;
+    padding-left: 15px;
+    background-color: white;
+  }
+  #cvv {
+    border: 2px solid #eceff3;
+    margin-top: 18px;
+    margin-left: 25px;
+    border-radius: 5px;
+    width: 107px;
+    padding-left: 8px;
+    height: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 11px;
+    background-color: white;
+  }
